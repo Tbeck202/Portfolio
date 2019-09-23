@@ -27,8 +27,53 @@ Employee's phone numbers are displayed on the user list partial view layout page
 
 As an admin of this application, you have the ability to create a user name for new users, who will then register in the app and claim this username. These unregistered users are stored in a seperate database from the registered users and there was no way to view unregistered users. It was my job to create an index view for the admin of all application users, including those you had not yet registered their username.
 #### Index page
-![All user index screenshot](https://github.com/Tbeck202/C-Sharp-Coding-Projects/blob/master/LiveProject/UserListIndex.png?raw=true "Suspended Checkboxes")
+![All user index screenshot](https://github.com/Tbeck202/C-Sharp-Coding-Projects/blob/master/LiveProject/UserListIndex.png?raw=true "Index Page")
 #### Controller method
-![All user index screenshot](https://github.com/Tbeck202/C-Sharp-Coding-Projects/blob/master/LiveProject/UnregisteredUserContollerMethod.png?raw=true "Suspended Checkboxes")
+![All user index screenshot](https://github.com/Tbeck202/C-Sharp-Coding-Projects/blob/master/LiveProject/UnregisteredUserContollerMethod.png?raw=true "Controller Method")
 #### Partial View
-![All user index screenshot](?raw=true "Suspended Checkboxes")
+@using ManagementPortal.Common
+@using ManagementPortal.Models
+@using Microsoft.AspNet.Identity
+
+@model List<CreateUserRequest>
+
+<div class="card card-shadow mb-3">
+    <div class="card-header">
+        <h4>Unregistered Users</h4>
+    </div>
+
+    <div class="card-body">
+        <table class="table table-striped table-light rounded-lg">
+            <tr>
+                <th>
+                    Unregistered Users
+                </th>
+                <th>
+                    User Role
+                </th>
+            </tr>
+
+            @if (Model.Count > 0)
+            {
+                for (var i = 0; i < Model.Count; i++)
+                {
+                    {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => Model[i].UserName)</td>
+                                <td>@Html.DisplayFor(modelItem => Model[i].UserRole)</td>
+                            </tr>
+                    }
+                }
+            }
+            else
+            {
+                <tr>
+                    <td>
+                        There are no unregistered Users at this time.
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+
