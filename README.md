@@ -1,3 +1,9 @@
+# Portfolio
+
+This is a repository of my favorite projects that I have completed up to this point. This includes the "Live project" I participated in as part of the curriculum at The Tech Academy.  
+
+My work done in this project is outlined below.
+
 # Live project description
 
 After completing all of the required coursework in the Tech Academy curriculum, I had the opportunity to participate in a two-week code sprint working on a .net MVC application. I really enjoyed being able to put my skills to the test on both front and back end user stories to make updates, add features, and improve the over all user experience of the app. This project had been worked on by my peers for some time before I was able to jump in and as such, I gained valuable experience in working with version control, de-bugging, and develpoing in a team environment.  After taking time to familiarize myself to the code base, I was able to get to work and complete the following User stories.
@@ -27,10 +33,13 @@ Employee's phone numbers are displayed on the user list partial view layout page
 
 As an admin of this application, you have the ability to create a user name for new users, who will then register in the app and claim this username. These unregistered users are stored in a seperate database from the registered users and there was no way to view unregistered users. It was my job to update the index and create a view for unregistered users that the admin could view.  The admin would then be able to view all application users, including those that had not yet registered their username.
 #### Index page
+I added the third Div in which the UnregisteredUser partial view is called.
 ![All user index screenshot](https://github.com/Tbeck202/C-Sharp-Coding-Projects/blob/master/LiveProject/UserListIndex.png?raw=true "Index Page")
 #### Controller method
+This is the controller method for the UnregisteredUser partial view
 ![All user index screenshot](https://github.com/Tbeck202/C-Sharp-Coding-Projects/blob/master/LiveProject/UnregisteredUserContollerMethod.png?raw=true "Controller Method")
 #### Partial View
+This is UnregisteredUser the partial view
 ![All user index screenshot](https://github.com/Tbeck202/C-Sharp-Coding-Projects/blob/master/LiveProject/UnregisteredUsersView.png?raw=true "Controller Method")
 
 ## Overall summary
