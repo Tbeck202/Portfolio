@@ -4,9 +4,17 @@ This is a repository of my favorite projects that I have completed up to this po
 
 My work done in this project is outlined below.
 
+Fist, and most obvious, is my portfolio site.  I designed my site from scratch with a mobile first approach and pure HTML & CSS.  You can visit my site [here](http://202code.com/).
+
+Next I'd like to point you towards a web application that calculates the total cost of a pizza order.  This site was built with HTML, CSS & Javascript, with Javascript handling the logic performing the calculations.  You can view and demo this site [here](http://202code.com/pizzaSite/index.html).
+
+Next, I'd point you towards a .NET MVC application that calculates a quote for car insurance based upon user input. The inputs and quotes are then stored in a SQL database which can be displayed upon request. For this site, I used HTML (with Bootstrap 4), c# for the logic, and the enitity framework to handle database queries. The site will be hosted for demo soon, but until then the code for this project can be seen [here](https://github.com/Tbeck202/C-Sharp-Coding-Projects/tree/master/InsuranceQuoteApp).
+
+Lastly, and maybe most importantly, is my participation in a live coding project which is outlined below.
+
 # Live project description
 
-After completing all of the required coursework in the Tech Academy curriculum, I had the opportunity to participate in a two-week code sprint working on a .net MVC application. I really enjoyed being able to put my skills to the test on both front and back end user stories to make updates, add features, and improve the over all user experience of the app. This project had been worked on by my peers for some time before I was able to jump in and as such, I gained valuable experience in working with version control, de-bugging, and develpoing in a team environment.  After taking time to familiarize myself to the code base, I was able to get to work and complete the following User stories.
+After completing all of the required coursework in the Tech Academy curriculum, I had the opportunity to participate in a two-week code sprint working on a legacy .net MVC application. I really enjoyed being able to put my skills to the test on both front and back end user stories to make updates, add features, and improve the over all user experience of the app. This project had been worked on by my peers for some time before I was able to jump in and as such, I gained valuable experience in working with version control, de-bugging, and develpoing in a team environment.  After taking time to familiarize myself to the code base, I was able to get to work and complete the following User stories.
 
 ## Adding a "Back/cancel" Button
 
