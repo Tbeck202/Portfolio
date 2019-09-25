@@ -2,7 +2,7 @@
 
 This is a repository of my favorite projects that I have completed up to this point. This includes the "Live project" I participated in as part of the curriculum at The Tech Academy.  
 
-My work done in this project is outlined below.
+My work done on these project is outlined below.
 
 Fist, and most obvious, is my portfolio site.  I designed my site from scratch with a mobile first approach and pure HTML & CSS.  You can visit my site [here](http://202code.com/).
 
