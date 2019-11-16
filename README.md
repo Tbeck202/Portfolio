@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a repository of my favorite projects that I have completed up to this point. This includes the "Live project" I participated in as part of the curriculum at The Tech Academy.  
+This is a repository of my favorite projects that I have completed up to this point. This includes the project I worked on during my internship an Prosper IT consulting.  
 
 My work done on these project is outlined below.
 
