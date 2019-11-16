@@ -6,11 +6,18 @@ My work done on these project is outlined below.
 
 Fist, and most obvious, is my portfolio site.  I designed my site from scratch with a mobile first approach and pure HTML & CSS.  You can visit my site [here](http://202code.com/).
 
-Next I'd like to point you towards a web application that calculates the total cost of a pizza order.  This site was built with HTML, CSS & Javascript, with Javascript handling the logic performing the calculations.  You can view and demo this site [here](http://202code.com/pizzaSite/index.html).
+## Jazz match
+
+This is an interactive image matching game built with pure HTML, CSS & Javascript.  I wanted to create site with lots of DOM manipulation and multiple actions based on user input. This is my favorite project I've worked on thus far and I had a blast making it. You can try it out for yourself [here](http://202code.com/jazzMatch.html) and see how well you know my favorite basketball team.
+
+## Sound circles
+This is a clone of the site patatap.com. I wanted to try using a couple different libraries to create an interactive website and you can check out what I came up with [here](http://202code.com/soundCircles.html).
 
 Next, I'd point you towards a .NET MVC application that calculates a quote for car insurance based upon user input. The inputs and quotes are then stored in a SQL database which can be displayed upon request. For this site, I used HTML (with Bootstrap 4), c# for the logic, and the enitity framework to handle database queries. The site will be hosted for demo soon, but until then the code for this project can be seen [here](https://github.com/Tbeck202/C-Sharp-Coding-Projects/tree/master/InsuranceQuoteApp).
 
-Lastly, and maybe most importantly, is my participation in a live coding project which is outlined below.
+Next I'd like to point you towards a web application that calculates the total cost of a pizza order.  This site was built with HTML, CSS & Javascript, with Javascript handling the logic performing the calculations.  You can view and demo this site [here](http://202code.com/pizzaSite/index.html).
+
+Lastly, and maybe most importantly, is my participation in a development internship which is outlined below.
 
 # Internship project description
 
