@@ -23,7 +23,7 @@ Lastly, and maybe most importantly, is my participation in a development interns
 
 # Internship project description
 
-After completing all of the required coursework in the Tech Academy curriculum, I had the opportunity to take an internship working on a legacy .net MVC application. I really enjoyed being able to put my skills to the test on both front and back end user stories to make updates, add features, and improve the over all user experience of the app. This project had been worked on by my peers for some time before I was able to jump in and as such, I gained valuable experience in working with version control, de-bugging, and develpoing in a team environment.  After taking time to familiarize myself to the code base, I was able to get to work and complete the following User stories.
+After completing all of the required coursework in the Tech Academy curriculum, I had the opportunity to take an internship working on a legacy .net MVC application. I really enjoyed being able to put my skills to the test on both front and back end user stories to make updates, add features, and improve the over all user experience of the app. This project had been worked on by my peers for some time before I was able to jump in and as such, I gained valuable experience in working with version control, de-bugging, and developing in a team environment.  After taking time to familiarize myself to the code base, I was able to get to work and complete the following User stories.
 
 ## Adding a "Back/cancel" Button
 
