@@ -13,9 +13,11 @@ This is an interactive image matching game built with pure HTML, CSS & Javascrip
 ## Sound circles
 This is a clone of the site patatap.com. I wanted to try using a couple different libraries to create an interactive website and you can check out what I came up with [here](http://202code.com/soundCircles.html).
 
-Next, I'd point you towards a .NET MVC application that calculates a quote for car insurance based upon user input. The inputs and quotes are then stored in a SQL database which can be displayed upon request. For this site, I used HTML (with Bootstrap 4), c# for the logic, and the enitity framework to handle database queries. The site will be hosted for demo soon, but until then the code for this project can be seen [here](https://github.com/Tbeck202/C-Sharp-Coding-Projects/tree/master/InsuranceQuoteApp).
+## Insurance quote
+This is a .NET MVC application that calculates a quote for car insurance based upon user input. The inputs and quotes are then stored in a SQL database which can be displayed upon request. For this site, I used HTML (with Bootstrap 4), c# for the logic, and the enitity framework to handle database queries. The site will be hosted for demo soon, but until then the code for this project can be seen [here](https://github.com/Tbeck202/C-Sharp-Coding-Projects/tree/master/InsuranceQuoteApp).
 
-Next I'd like to point you towards a web application that calculates the total cost of a pizza order.  This site was built with HTML, CSS & Javascript, with Javascript handling the logic performing the calculations.  You can view and demo this site [here](http://202code.com/pizzaSite/index.html).
+## Pizza order app
+This is a web application that calculates the total cost of a pizza order.  This site was built with HTML, CSS & Javascript, with Javascript handling the logic performing the calculations.  You can view and demo this site [here](http://202code.com/pizzaSite/index.html).
 
 Lastly, and maybe most importantly, is my participation in a development internship which is outlined below.
 
