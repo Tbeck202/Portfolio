@@ -6,6 +6,10 @@ My work done on these project is outlined below.
 
 Fist, and most obvious, is my portfolio site.  I designed my site from scratch with a mobile first approach and pure HTML & CSS.  You can visit my site [here](http://202code.com/).
 
+## Popcorn Pals
+
+Popcorn pals is a fully functioning RESTful application built with node.js, express.js, mongodb, mongoose and styled with Bootstrap 4. The purpose of the app is to keep track of the movies watched by a group of people taking part in a challenge to watch as many new movies possible throughout the year. I'm really proud of this project and it makes me happy to see it being used in real-time by my friends as we do this movie challenge. You can see the application [here](https://popcorn-pals.herokuapp.com/).
+
 ## Jazz match
 
 This is an interactive image matching game built with pure HTML, CSS & Javascript.  I wanted to create site with lots of DOM manipulation and multiple actions based on user input. This is my favorite project I've worked on thus far and I had a blast making it. You can try it out for yourself [here](http://202code.com/projects/jazzMatch.html) and see how well you know my favorite basketball team.
