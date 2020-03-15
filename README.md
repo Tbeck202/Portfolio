@@ -8,7 +8,7 @@ Fist, and most obvious, is my portfolio site.  I designed my site from scratch w
 
 ## Popcorn Pals
 
-Popcorn pals is a fully functioning RESTful application built with node.js, express.js, mongodb, mongoose and styled with Bootstrap 4. The purpose of the app is to keep track of the movies watched by a group of people taking part in a challenge to watch as many new movies possible throughout the year. I'm really proud of this project and it makes me happy to see it being used in real-time by my friends as we do this movie challenge. You can see the application [here](https://popcorn-pals.herokuapp.com/).
+Popcorn pals is a fully functioning RESTful application built with node.js, express.js, mongodb, mongoose and styled with Bootstrap 4 and Sass/scss. The purpose of the app is to keep track of the movies watched by a group of people taking part in a challenge to watch as many new movies possible throughout the year. I'm really proud of this project and it makes me happy to see it being used in real-time by my friends as we do this movie challenge. You can see the application [here](https://popcorn-pals.herokuapp.com/).
 
 ## Jazz match
 
