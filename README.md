@@ -8,7 +8,7 @@ Fist, and most obvious, is my portfolio site.  I designed my site from scratch w
 
 ## Jazz match
 
-This is an interactive image matching game built with pure HTML, CSS & Javascript.  I wanted to create site with lots of DOM manipulation and multiple actions based on user input. This is my favorite project I've worked on thus far and I had a blast making it. You can try it out for yourself [here](http://202code.com/jazzMatch.html) and see how well you know my favorite basketball team.
+This is an interactive image matching game built with pure HTML, CSS & Javascript.  I wanted to create site with lots of DOM manipulation and multiple actions based on user input. This is my favorite project I've worked on thus far and I had a blast making it. You can try it out for yourself [here](http://202code.com/projects/jazzMatch.html) and see how well you know my favorite basketball team.
 
 ## Sound circles
 This is a clone of the site patatap.com. I wanted to try using a couple different libraries to create an interactive website and you can check out what I came up with [here](http://202code.com/soundCircles.html).
