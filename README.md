@@ -6,6 +6,9 @@ My work done on these project is outlined below.
 
 Fist, and most obvious, is my portfolio site.  I designed my site from scratch with a mobile first approach and pure HTML & CSS.  You can visit my site [here](http://202code.com/).
 
+## Bracket Builder
+This is an application I built with python and Flask to help build tournament brackets for a podcast I co-host. The application allows you to enter up to 32 different movie titles and then will create a randomized bracket of matchups, in order to let our listeners vote on which their favotrite movies are. The app is hosted on heroku, [here](https://tfp-bracketbuilder.herokuapp.com/)
+
 ## Popcorn Pals
 
 Popcorn pals is a fully functioning RESTful application built with node.js, express.js, mongodb, mongoose and styled with Bootstrap 4 and Sass/scss. The purpose of the app is to keep track of the movies watched by a group of people taking part in a challenge to watch as many new movies possible throughout the year. I'm really proud of this project and it makes me happy to see it being used in real-time by my friends as we do this movie challenge. You can see the application [here](https://popcorn-pals.herokuapp.com/).
